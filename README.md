@@ -1,4 +1,3 @@
-📌 Visão Geral
 This repository contains an **end-to-end test automation project built with Cypress**, created during a hands-on Cypress course focused on real-world usage of the framework.
 The main goal of this project was to **learn, practice, and apply best practices in test automation**, from initial setup to writing stable, readable, and maintainable tests.
 
